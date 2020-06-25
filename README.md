@@ -1,6 +1,6 @@
-# memories
+# memoriesApp
 
-A new Flutter project.
+A new Flutter project made in rememberance of my late grandmother.
 
 ## Getting Started
 
