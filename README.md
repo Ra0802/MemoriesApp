@@ -1,6 +1,8 @@
 # memoriesApp
 
 A new Flutter project made in rememberance of my late grandmother.
+Applications made in flutter are capable of running on Android, Ios and Web
+all through a single-codebase Dart.
 
 ## Getting Started
 
